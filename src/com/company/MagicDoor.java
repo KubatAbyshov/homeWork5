@@ -29,8 +29,6 @@ public class MagicDoor {
         h4.damage =20;
         h4.superAbilities =50;
 
-
-
         Hero[] heroes = {h1, h2, h3, h4};
         return;
 
