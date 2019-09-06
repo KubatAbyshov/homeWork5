@@ -6,5 +6,13 @@ public class Main {
 
     public static void main(String[] args) {
 
+        MagicDoor mH = new MagicDoor();
+        Hero h = new Hero();
+        h.h
+
+        System.out.println(h.);
+
+
+
     }
 }
